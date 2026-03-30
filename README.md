@@ -1,3 +1,1 @@
-# Motion Deblurring and Object Detection Project
-
-Full pipeline implementation.
+# Motion Deblurring + Object Detection Project
